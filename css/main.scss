@@ -1,0 +1,19 @@
+---
+---
+
+body {
+  min-height: 100vh;
+  font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  display:flex;
+  flex-direction:column;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+@import "normalize";
+@import "header";
+@import "footer";
+@import "main";

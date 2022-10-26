@@ -1,0 +1,886 @@
+- title: "Doing More with Less: Orchestrating Serverless Applications without an Orchestrator"
+  people:
+    - hl7
+    - Shadi Noghabi
+    - Sebastian Burckhardt
+    - aalevy
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+- title: "Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage"
+  people:
+    - linanqinqin
+    - akalaba
+    - mfreed
+    - wlloyd
+    - aalevy
+  venue: "Proc. USENIX Annual Technical Conference (USENIX ATC '22)"
+  year: 2022
+  paper: https://www.amitlevy.com/papers/2022-atc-specreds.pdf
+- title: "Tiered Trust for Useful Embedded Systems Security"
+  people:
+    - Hudson Ayers
+    - Prabal Dutta
+    - Philip Levis
+    - aalevy
+    - Pat Pannuto
+    - Johnathan Van Why
+    - Jean-Luc Watson
+  venue: "Proc. 15th European Workshop on Systems Security (EuroSec '22)"
+  year: 2022
+  paper: https://www.amitlevy.com/papers/2022-eurosec-ayers.pdf
+
+- title: "Don’t Be a Blockhead: Zoned Namespaces Make Work on Conventional SSDs Obsolete"
+  people:
+    - theanos
+    - Daniel S. Berger
+    - Ethan Katz-Bassett
+    - wlloyd
+  venue: "Proc. 18th Workshop on Hot Topics in Operating Systems (HotOS '21)" 
+  year: 2021
+  paper: https://www.cs.princeton.edu/~theanos/hotos21-stavrinos.pdf
+  presentation: https://www.youtube.com/watch?v=NVzP-3vaWtQ
+
+- title: "Facebook’s Tectonic Filesystem: Efficiency from Exascale"
+  people:
+    - Satadru Pan
+    - theanos
+    - Yunqiao Zhang 
+    - Atul Sikaria
+    - Pavel Zakharov
+    - Abhinav Sharma
+    - Shiva Shankar P
+    - Mike Shuey
+    - Richard Wareing
+    - Monika Gangapuram
+    - Guanglei Cao
+    - Christian Preseau
+    - Pratap Singh
+    - Kestutis Patiejunas
+    - JR Tipton
+    - Ethan Katz-Bassett
+    - wlloyd
+  venue: "Proc. 19th USENIX Conference on File and Storage Technologies (FAST '21)" 
+  year: 2021
+  paper: https://www.cs.princeton.edu/~theanos/fast21-pan.pdf
+  presentation: https://www.youtube.com/watch?v=aN2KysHRsZA&t
+
+- title: "K2: Reading Quickly from Storage Across Many Datacenters"
+  people:
+    - qngo
+    - haonanl
+    - wlloyd
+  venue: "Proc. 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '21)" 
+  year: 2021
+  paper: https://sns.cs.princeton.edu/assets/papers/2021-dsn-ngo.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2021-dsn-ngo.pptx
+
+- title: "Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust"
+  people:
+    - npopescu
+    - Ziyang Xu
+    - Sotiris Apostolakis
+    - David I. August
+    - aalevy
+  venue: "Proc. of the ACM on Programming Languages, Volume 5, Issue OOPSLA (OOPSLA '21), Chicago, Illinois"
+  year: 2021
+
+- title: "Regular Sequential Serializability and Regular Sequential Consistency"
+  people:
+    - jhelt
+    - Matthew Burke
+    - aalevy
+    - wlloyd
+  venue: "Proc. 28th ACM Symposium on Operating Systems Principles (SOSP '21), Virtual"
+  year: 2021
+
+- title: "Power Clocks: Dynamic Multi-Clock Management for Embedded Systems"
+  people:
+    - Holly Chiang
+    - Hudson Ayers
+    - Daniel Giffin
+    - aalevy
+    - Philip Levis
+  venue: "Proc. 16th International Conference on Embedded Wireless Systems and Networks (EWSN '21), Delft, The Netherlands"
+  year: 2021
+  paper: https://sns.cs.princeton.edu/assets/papers/2021-ewsn-chiang.pdf
+
+- title: "Tolerating Slowdowns in Replicated State Machines using Copilots"
+  people:
+    - qngo
+    - sssix 
+    - wlloyd
+  venue: "Proc. 14th Symposium on Operating Systems Design and Implementation (OSDI '20)"
+  year: 2020
+  paper: https://sns.cs.princeton.edu/assets/papers/2020-osdi-ngo.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2020-osdi-ngo.pptx
+
+- title: "Performance-Optimal Read-Only Transactions"
+  people:
+    - haonanl
+    - sssix
+    - wlloyd
+  venue: "Proc. 14th Symposium on Operating Systems Design and Implementation (OSDI '20)"
+  year: 2020
+  paper: https://sns.cs.princeton.edu/assets/papers/2020-osdi-lu.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2020-osdi-lu.pdf
+
+- title: "Resource Elasticity in Distributed Deep Learning"
+  people:
+    - andrewor
+    - hzhang
+    - mfreed
+  venue: "Proc. 3rd Conference on Machine Learning and Systems (MLSys ’20) Austin, TX"
+  year: 2020
+  paper: https://sns.cs.princeton.edu/assets/papers/2020-mlsys-or.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2020-mlsys-or.pdf
+
+- title: "Learning Relaxed Belady for Content Distribution Network Caching"
+  people:
+    - zhenyus
+    - Daniel S. Berger
+    - Kai Li
+    - wlloyd
+  venue: "Proc. 17th Symposium on Networked Systems Design and Implementation (NSDI '20), Boston, MA"
+  year: 2020
+  paper: https://sunnyszy.github.io/assets/files/nsdi2020_lrb.pdf
+  presentation: https://www.usenix.org/conference/nsdi20/presentation/song
+
+- title: "Gryff: Unifying Consensus and Shared Registers"
+  people:
+    - Matthew Burke
+    - Audrey Cheng
+    - wlloyd
+  venue: "Proc. 17th Symposium on Networked Systems Design and Implementation (NSDI '20), Boston, MA"
+  year: 2020
+  paper: https://sns.cs.princeton.edu/assets/papers/2020-nsdi-burke.pdf
+
+- title: "Design considerations for low power internet protocols"
+  people:
+    - Hudson Ayers
+    - Paul Crews
+    - Hubert Teo
+    - Conor McAvity
+    - aalevy
+    - Philip Levis
+  venue: "Proc. 16th International Conference on Distributed Computing in Sensor Systems (DCOSS '20)"
+  year: 2020
+  paper: https://sns.cs.princeton.edu/assets/papers/2020-dcoss-ayers.pdf
+
+- title: "ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling"
+  people:
+    - stafman
+    - andrewor
+    - mfreed
+  venue: "Proc. 20th International Middleware Conference (Middleware '19) Davis, CA"
+  year: 2019
+  paper: https://sns.cs.princeton.edu/assets/papers/2019-middleware-stafman.pdf
+  award:
+    - Best Paper Award
+
+- title: "Progressive memory safety for webassembly"
+  people:
+    - Craig Disselkoen
+    - John Renner
+    - Conrad Watt
+    - Tal Garfinkel
+    - aalevy
+    - Deian Stefan
+  venue: "Proc. 8th International Workshop on Hardware and Architectural Support for Security and Privacy (HASP '19), Phoenix, AZ"
+  year: 2019
+  paper: https://sns.cs.princeton.edu/assets/papers/2019-hasp-disselkoen.pdf
+
+- title: "Riffle: Optimized shuffle service for large-scale data analytics"
+  people:
+    - hzhang
+    - Brian Cho
+    - Ergin Seyfe
+    - Avery Ching
+    - mfreed
+  venue: "Proc. 13th European Conference on Computer Systems (EuroSys ’18) Porto, Portugal"
+  year: 2018
+  paper: https://sns.cs.princeton.edu/assets/papers/2018-eurosys-zhang.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2018-eurosys-zhang.pdf
+
+- title: "NetChain: Scale-Free Sub-RTT Coordination"
+  people:
+    - Xin Jin
+    - xli
+    - hzhang
+    - Nate Foster
+    - Jeongkeun Lee
+    - Robert Soule
+    - Changhoon Kim
+    - Ion Stoica
+  year: 2018
+  venue: "Proc. 15th USENIX Symposium on Networked Systems Design and Implementation (NSDI ’18) Renton, WA"
+  paper: https://sns.cs.princeton.edu/assets/papers/2018-nsdi-jin.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2018-nsdi-jin.pdf
+
+- title: "SVE: Distributed Video Processing at Facebook Scale"
+  people:
+    - Qi Huang
+    - Petchean Ang
+    - Peter Knowles
+    - Tomasz Nykiel
+    - Iaroslav Tverdokhlib
+    - Amit Yajurvedi
+    - Paul Dapolito VI
+    - Xifan Yan
+    - Maxim Bykov
+    - Chuen Liang
+    - Mohit Talwar
+    - Abhishek Mathur
+    - Sachin Kulkarni
+    - Matthew Burke
+    - wlloyd
+  venue: "Proc. 26th ACM Symposium on Operating Systems Principles (SOSP '17), Shanghai, China"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-sosp-huang.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2017-sosp-huang.pdf
+
+- title: "NetCache: Balancing Key-Value Stores with Fast In-Network Caching"
+  people:
+    - Xin Jin
+    - xli
+    - hzhang
+    - Robert Soule
+    - Nate Foster
+    - Jeongkeun Lee
+    - Changhoon Kim
+    - Ion Stoica
+  venue: "Proc. 26th ACM Symposium on Operating Systems Principles (SOSP '17), Shanghai, China"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-sosp-jin.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2017-sosp-jin.pdf
+
+- title: "SLAQ: Quality-Driven Scheduling for Distributed Machine Learning"
+  people:
+    - hzhang
+    - stafman
+    - andrewor
+    - mfreed
+  venue: "Proc. ACM Symposium on Cloud Computing (SoCC '17), Santa Clara, CA"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-socc-zhang.pdf
+  award:
+    - Best Paper Award
+
+- title: "The Record Route Option is an Option!"
+  people:
+    - Brian Goodchild
+    - Yi-Ching Chiu
+    - haonanl
+    - Rob Hansen
+    - Matt Calder
+    - Dave Choffnes
+    - wlloyd
+    - Matthew Luckie
+    - Ethan Katz-Bassett
+  venue: "Proc. 2017 Internet Measurement Conference (IMC '17), London, United Kingdom"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-imc-goodchild.pdf
+
+- title: "Popularity Prediction of Facebook Videos for Higher Quality Streaming"
+  people:
+    - Linpeng Tang
+    - Qi Huang
+    - Amit Puntambekar
+    - Ymir Vigfusson
+    - wlloyd
+    - Kai Li
+  venue: "Proc. 2017 USENIX Annual Technical Conference (ATC '17), Santa Clara, CA"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-atc-tang.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2017-atc-tang.pdf
+
+- title: "I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+  people:
+    - Syed Akbar Mehdi
+    - Cody Littley
+    - Natacha Crooks
+    - Lorenzo Alvisi
+    - Nathan Bronson
+    - wlloyd
+  venue: "Proc. 14th Symposium on Networked Systems Design and Implementation (NSDI '17), Boston, MA"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-nsdi-mehdi.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2017-nsdi-mehdi.pdf
+
+- title: "Live Video Analytics at Scale with Approximation and Delay-Tolerance"
+  people:
+    - hzhang
+    - Ganesh Ananthanarayanan
+    - Peter Bodik
+    - Matthai Philipose
+    - Paramvir Bahl
+    - mfreed
+  venue: "Proc. 14th Symposium on Networked Systems Design and Implementation (NSDI '17), Boston, MA"
+  year: 2017
+  paper: https://sns.cs.princeton.edu/assets/papers/2017-nsdi-zhang.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2017-nsdi-zhang.pdf
+
+- title: "The SNOW Theorem and Latency-Optimal Read-Only Transactions"
+  people:
+    - haonanl
+    - chodsdon
+    - qngo
+    - Shuai Mu
+    - wlloyd
+  venue: "Proc. 12th Symposium on Operating Systems Design and Implementation (OSDI ’16), Savannah, GA, October 2016"
+  year: 2016
+  paper: https://sns.cs.princeton.edu/assets/papers/2016/osdi-lu.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2016/osdi-lu.pptx
+
+- title: "Replex: A Scalable, Highly Available Multi-Index Data Store"
+  project: replex
+  people:
+    - amytai
+    - Michael Wei
+    - mfreed
+    - Ittai Abraham
+    - Dahlia Malkhi
+  venue: "USENIX Annual Technical Conference 2016 (ATC ’16) Denver, Colorado, June 2016"
+  paper: http://sns.cs.princeton.edu/wp-content/uploads/2016/10/atc2016.pdf
+  presentation: https://www.usenix.org/conference/atc16/technical-sessions/presentation/tai
+  year: 2016
+  award:
+    - Best Paper Award
+
+- title: "Existential Consistency: Measuring and Understanding Consistency at Facebook"
+  people:
+    - haonanl
+    - Kaushik Veeraraghavan
+    - Philippe Ajoux
+    - Jim Hunt
+    - Yee Jiun Song
+    - Wendy Tobagus
+    - Sanjeev Kumar
+    - wlloyd
+  venue: "Proc. 25th ACM Symposium on Operating Systems Principles (SOSP 15), October 2015"
+  paper: https://sns.cs.princeton.edu/assets/papers/2015-sosp-lu.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2015-sosp-lu.pdf
+  year: 2015
+
+- title: "RIPQ: Advanced Photo Caching on Flash for Facebook"
+  people:
+    - Linpeng Tang
+    - Qi Huang
+    - wlloyd
+    - Sanjeev Kumar
+    - Kai Li
+  venue: "Proc. 13th USENIX Conference on File and Storage Technologies (FAST 15), February 2015"
+  paper: https://sns.cs.princeton.edu/assets/papers/2015-fast-tang.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2015-fast-tang.pdf
+  year: 2015
+
+- title: "CONIKS: Bringing Key Transparency to End Users"
+  people:
+    - melara
+    - ablankst
+    - Joseph Bonneau
+    - Edward W. Felten
+    - mfreed
+  venue: "Proc. 24th USENIX Security Symposium (Security '15) Washington, DC, August 2015."
+  paper: https://sns.cs.princeton.edu/assets/papers/2015-sec-melara.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2015-sec-melara.pdf
+  year: 2015
+  award: 2017 Caspar Bowden Award for Privacy Enhancing Technologies
+
+- title: "Ravana: Controller Fault-Tolerance in Software-Defined Networking"
+  people:
+    - Naga Katta
+    - hzhang
+    - mfreed
+    - Jennifer Rexford
+  venue: "Proc. ACM Sigcomm Symposium on SDN Research (SOSR '15) Santa Clara, CA, June 2015."
+  paper: https://sns.cs.princeton.edu/assets/papers/2015-sosr-katta.pdf
+  year: 2015
+
+- title: Automating Isolation and Least Privilege in Web Services.
+  project: passe
+  people:
+    - ablankst
+    - mfreed
+  venue: "Proc. IEEE Security and Privacy (SP ’14), San Jose, CA, May 2014."
+  paper: http://sns.cs.princeton.edu/docs/passe-sp14-final.pdf
+  year: 2014
+
+- title: "Fairness and Isolation in Multi-Tenant Storage as Optimization Decomposition"
+  people:
+    - dshue
+    - mfreed
+    - Anees Shaikh
+  venue: "ACM SIGOPS Operating System Review."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-osr-shue.pdf
+  year: 2013
+
+- title: "Languages for software-defined networks"
+  people:
+    - Nate Foster
+    - mfreed
+    - Arjun Guha
+    - Rob Harrison
+    - Naga Praveen Katta
+    - Christopher Monsanto
+    - Joshua Reich
+    - Mark Reitblatt
+    - Jennifer Rexford
+    - Cole Schlesinger
+    - Alec Story
+    - David Walker
+  venue: "IEEE Communications Magazine, Vol 51, Num 2, February 2013."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-ieeecomm-foster.pdf
+  year: 2013
+
+- title: "Stronger Semantics for Low-Latency Geo-Replicated Storage"
+  people:
+    - wlloyd
+    - mfreed
+    - Michael Kaminsky
+    - David G. Andersen
+  venue: "Proc. 10th Symposium on Networked Systems Design and Implementation."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-nsdi-lloyd.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2013-nsdi-lloyd.pptx
+  year: 2013
+
+- title: "Making Every Bit Count in Wide-Area Analytics"
+  people:
+    - Ariel Rabkin
+    - marye
+    - sssix
+    - Vivek Pai
+    - mfreed
+  venue: "Proc. 14th Workshop on Hot Topics on Operating Systems."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-hotos-rabkin.pdf
+  year: 2013
+
+- title: "A Short Primer on Causal Consistency"
+  people:
+    - wlloyd
+    - mfreed
+    - Michael Kaminsky
+    - David G. Andersen
+  venue: ";login: The USENIX Magazine, Vol 38, Number 4, August 2013."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-login-lloyd.pdf
+  year: 2013
+
+- title: "Scalable, Optimal Flow Routing in Datacenters via Local Link Balancing"
+  people:
+    - sssix
+    - dshue
+    - Sunghwan Ihm
+    - mfreed
+  venue: "Proc. 9th Intl Conference on emerging Networking EXperiments and Technologies."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-conext-sen.pdf
+  year: 2013
+
+- title: "Scaling IP Multicast on Datacenter Topologies"
+  people:
+    - xli
+    - mfreed
+  venue: "Proc. 9th Intl Conference on emerging Networking EXperiments and Technologies."
+  paper: https://sns.cs.princeton.edu/assets/papers/2013-conext-li.pdf
+  year: 2013
+
+- title: "Privacy and Integrity are Possible in the Untrusted Cloud"
+  people:
+    - Ariel J. Feldman
+    - ablankst
+    - mfreed
+    - Edward W. Felten
+  venue: "Proc. IEEE Data Engineering Bulletin Vol 35, Num 4, December 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-deb-feldman.pdf
+  year: 2012
+
+- title: "Increasing network resilience through edge diversity in NEBULA"
+  people:
+    - marye
+    - rkiefer
+    - Kyle Super
+    - Erik Nordstrom
+    - mfreed
+    - Eric Keller
+    - Tom Rondeau
+    - Jonathan M. Smith
+  venue: "Proc. ACM SIGMOBILE Mobile Computing and Communications Review Vol 16 Num 3, December 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-sigmobile-arye.pdf
+  year: 2012
+
+- title: "Scalable Inference of Overlapping Communities"
+  people:
+    - Prem Gopalan
+    - David Mimno
+    - Sean Gerrish
+    - mfreed
+    - David Blei
+  venue: "Proc. Neural Information Processing Systems
+      (NIPS ’12) Lake Tahoe, NV, December 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-nips-gopalan.pdf
+  year: 2012
+
+- title: "A Formally-Verified Migration Protocol For Mobile, Multi-Homed Hosts"
+  people:
+    - marye
+    - Erik Nordstrom
+    - rkiefer
+    - Jennifer Rexford
+    - mfreed
+  venue: "Proc. IEEE International Conference on Network Protocols (ICNP ’12) Austin, TX, October 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-icnp-arye.pdf
+  year: 2012
+
+- title: "Performance Isolation and Fairness for Multi-Tenant Cloud Storage"
+  people:
+    - dshue
+    - mfreed
+    - Anees Shaikh
+  venue: "Proc. Symposium on Operating Systems Design and Implementation
+      (OSDI ’12). Hollywood, CA, October 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-osdi-shue.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2012-osdi-shue.ppt
+  year: 2012
+
+- title: "Social Networking with Frientegrity: Privacy and Integrity with an Untrusted Provider"
+  people:
+    - Ariel J. Feldman
+    - ablankst
+    - mfreed
+    - Edward W. Felten
+  venue: "Proc. USENIX Security (Sec ’12). Bellevue, WA, August 2012."
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-sec-feldman.pdf
+  year: 2012
+
+- title: "Frenetic: A High-Level Language for OpenFlow Networks"
+  people:
+    - Nate Foster
+    - Rob Harrison
+    - Matthew L. Meola
+    - mfreed
+    - Jennifer Rexford
+    - David Walker
+  venue: "Proc. Workshop on Programmable Routers for Extensible Services of Tomorrow (PRESTO '10) Philadelphia, PA. November 2010."
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-presto-foster.pdf
+  year: 2010
+
+- title: "SPORC: Group Collaboration using Untrusted Cloud Resources"
+  people:
+    - Ariel J. Feldman
+    - William P. Zeller
+    - mfreed
+    - Edward W. Felten
+  venue: "Proc. Symposium on Operating Systems Design and Implementation (OSDI '10) Vancouver, BC, October 2010."
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-osdi-feldman.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2010-osdi-feldman.pdf
+  year: 2010
+
+- title: "Scalable Flow-Based Networking with DIFANE"
+  people:
+    - Minlan Yu
+    - Jennifer Rexford
+    - mfreed
+    - Jia Wang
+  venue: "Proc. ACM SIGCOMM Conference (SIGCOMM '10) New Delhi, India, August 2010."
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-sigcomm-yu.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2010-sigcomm-yu.pdf
+  year: 2010
+
+- title: "DONAR: Decentralized Server Selection for Cloud Services"
+  people:
+    - Patrick Wendell
+    - Joe Wenjie Jiang
+    - mfreed
+    - Jennifer Rexford
+  venue: "Proc. ACM SIGCOMM Conference (SIGCOMM '10) New Delhi, India, August 2010."
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-sigcomm-wendell.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2010-sigcomm-wendell.pdf
+  year: 2010
+
+- title: "Collaborative, Privacy-Preserving Data Aggregation at Scale"
+  people:
+    - Benny Applebaum
+    - Haakon Ringberg
+    - mfreed
+    - Matthew Caesar
+    - Jennifer Rexford
+  venue: "Proc. 10th Privacy Enhancing Technologies Symposium (PET '10) Berlin, Germany, July 2010."
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-pet-applebaum.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2010-pet-applebaum.pdf
+  year: 2010
+- title: "Peer-Assisted Content Distribution with Prices"
+  people:
+    - Christina Aperjis
+    - mfreed
+    - Ramesh Johari
+  venue: "Proc. ACM SIGCOMM Conference on emerging Networking Experiments and Technologies"
+  paper: https://sns.cs.princeton.edu/assets/papers/2008-conext-aperjis.pdf
+  year: 2008
+- title: "A Comparison of Bilateral and Multilateral Exchanges for Peer-Assisted Content Distribution"
+  people:
+    - Christina Aperjis
+    - mfreed
+    - Ramesh Johari
+  venue: "Proc. 2nd Workshop on Network Control and Optimization"
+  paper: https://sns.cs.princeton.edu/assets/papers/2008-netcoop-aperjis.pdf
+  year: 2008
+- title: "Prices are Right: Managing resources and incentives in peer-assisted content distribution"
+  people:
+    - mfreed
+    - Christina Aperjis
+    - Ramesh Johari
+  venue: "Proc. 7th International Workshop on Peer-to-Peer Systems"
+  paper: https://sns.cs.princeton.edu/assets/papers/2008-iptps-freedman.pdf
+  year: 2008
+
+- title: "Feeding Frenzy: Selectively Materializing Users’ Event Feeds"
+  people: 
+    - Adam Silberstein
+    - jterrace
+    - Brian Frank Cooper
+    - Raghu Ramakrishnan
+  venue: "SIGMOD"
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-sigmod-silberstein.pdf
+  year: 2010
+
+- title: "Experiences with Tracing Causality in Networked Services"
+  people: 
+    - Rodrigo Fonseca
+    - mfreed
+    - George Porter
+  venue: "INM/WREN"
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-inm-fonseca.pdf
+  year: 2010
+
+- title: "Experiences with CoralCDN: A Five-Year Operational View"
+  people: 
+    - mfreed
+  venue: "NSDI"
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-nsdi-freedman.pdf
+  year: 2010
+
+- title: "Prophecy: Using History for High-Throughput Fault Tolerance"
+  people: 
+    - sssix
+    - wlloyd
+    - mfreed
+  venue: "NSDI"
+  paper: https://sns.cs.princeton.edu/assets/papers/2010-nsdi-sen.pdf
+  year: 2010
+
+- title: "Frenetic: A Network Programming Language"
+  people:
+    - Nate Foster
+    - Rob Harrison
+    - mfreed
+    - Christopher Monsanto
+    - Jennifer Rexford
+    - Alec Story
+    - David Walker
+  venue: "ICFP"
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-icfp-foster.pdf
+  year: 2011
+
+- title: "Commensal Cuckoo: Secure Group Partitioning for Large-Scale Services"
+  people:
+    - sssix
+    - mfreed
+  venue: "Proc. 5th Workshop on Large Scale Distributed Systems and Middleware"
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-ladis-sen.pdf
+  year: 2011
+
+- title: "Hiding Amongst the Clouds: A Proposal for Cloud-based Onion Routing"
+  people:
+    - Nicholas Jones
+    - marye
+    - Jacopo Cesareo
+    - mfreed
+  venue: "Proc. USENIX Workshop on Free and Open Communications on the Internet"
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-foci-jones.pdf
+  year: 2011
+
+- title: "Identifying Performance Bottlenecks in CDNs through TCP-Level Monitoring"
+  people:
+    - Peng Sun
+    - Minlan Yu
+    - mfreed
+    - Jennifer Rexford
+  venue: "Proc. ACM SIGCOMM Workshop on Measurements Up the STack"
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-wmust-sun.pdf
+  year: 2011
+
+- title: "Coercing Clients into Facilitating Failover for Object Delivery"
+  people:
+    - wlloyd
+    - mfreed
+  venue: "Proc. 41st IEEE/IFIP International Conference on Dependable Systems and Networks, Dependable Computing and Communication Symposium (DCCS) track"
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-dsn-lloyd.pdf
+  year: 2011
+
+
+- title: "Virtual Ring Routing Trends"
+  people:
+    - Dahlia Malkhi
+    - sssix
+    - Kunal Talwar
+    - Renato F. Werneck 
+    - Udi Wieder
+  venue: "Proc. 23rd International Symposium on Distributed Computing (DISC '09), Elche, Spain"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-disc-walkhi.pdf
+
+- title: "Rethinking Enterprise Network Control"
+  people:
+    - Martin Casado
+    - mfreed
+    - Justin Pettit
+    - Jianying Luo
+    - Natasha Gude
+    - Nick McKeown
+    - Scott Shenker
+  venue: "IEEE/ACM Transactions on Networking, Vol 17, Num 4. August 2009"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-ton-casado.pdf
+
+
+- title: "Scaling Virtual Worlds with a Physical Metaphor"
+  people:
+    - Daniel Horn
+    - Ewen Cheslack-Postava
+    - Tahir Azim
+    - mfreed
+    - Philip Levis 
+  venue: "IEEE Pervasive Computing, Vol 8, Num 3. July-September 2009"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-pervasive-horn.pdf
+
+
+- title: "Object Storage on CRAQ: High-throughput chain replication for read-mostly workloads"
+  people:
+    - jterrace
+    - mfreed
+  venue: "Proc. USENIX Annual Technical Conference (USENIX ’09), San Diego, CA, June 2009"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-atc-terrace.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2009-atc-terrace.pptx
+
+
+- title: "Collaborative, Privacy-Preserving Data Aggregation at Scale"
+  people:
+    - Haakon Ringberg
+    - Benny Applebaum
+    - mfreed
+    - Matthew Caesar
+    - Jennifer Rexford
+  venue: "Cryptology ePrint Archive: Report 2009/180, April 2009"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-eprint-ringberg.pdf
+
+- title: "Bringing P2P to the Web: Security and Privacy in the Firecoral Network"
+  people:
+    - jterrace
+    - Harold Laidlaw
+    - Hao Eric Liu
+    - Sean Stern
+    - mfreed
+  venue: "Proc. 8th International Workshop on Peer-to-Peer Systems, (IPTPS ’09) Boston, MA, April 2009"
+  year: 2009
+  paper: https://sns.cs.princeton.edu/assets/papers/2009-iptps-terrace.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2009-iptps-terrace.pptx
+
+- title: "Going Viral: Flash Crowds in an Open CDN"
+  people:
+    - Patrick Wendell
+    - mfreed
+  venue: "Proc. ACM SIGCOMM Internet Measurement Conference"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-imc-wendell.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2011-imc-wendell.pdf
+
+- title: "Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS"
+  people:
+    - wlloyd
+    - mfreed
+    - Michael Kaminsky
+    - David G. Andersen
+  venue: "Proc. 23rd ACM Symposium on Operating Systems Principles"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-sosp-lloyd.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2011-sosp-lloyd.pptx
+
+- title: "Bilateral and Multilateral Exchanges for Peer-Assisted Content Distribution"
+  people:
+    - Christina Aperjis
+    - Ramesh Johari
+    - mfreed
+  venue: "IEEE/ACM Transactions on Networking"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-tonaperjis.pdf
+
+- title: "Online Learning for Mixed Membership Network Models (Extended Abstract)"
+  people:
+    - Prem Gopalan
+    - David Mimno
+    - mfreed
+    - David M. Blei
+  venue: "Proc. 6th Annual Machine Learning Symposium, The New York Academy of Sciences"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-nyas-gopalan.pdf
+
+- title: "Toward a Lightweight Model of BGP Safety"
+  people:
+    - marye
+    - Rob Harrison
+    - Richard Wang
+    - Pamela Zave
+    - Jennifer Rexford
+  venue: "Workshop on Rigorous Protocol Engineering"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-wripe-arye.pdf
+
+- title: "Bridging the Theory-Practice Gap in Multi-Commodity Flow Routing (Brief Announcement)"
+  people:
+    - sssix
+    - Sunghwan Ihm
+    - Kay Ousterhout
+    - mfreed
+  venue: "Proc. 25th International Symposium on DIStributed Computing"
+  year: 2011
+  paper: https://sns.cs.princeton.edu/assets/papers/2011-disc-sen.pdf
+
+- title: "Towards Efficient Stream Processing at Global Scale"
+  people:
+    - marye
+    - sssix
+    - Ariel Rabkin
+    - mfreed
+  venue: "Proc. Large-Scale Distributed Systems and Middleware"
+  year: 2012
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-ladis-arye.pdf
+
+- title: "Towards Predictable Multi-Tenant Shared Cloud Storage"
+  people:
+    - dshue
+    - mfreed
+    - Anees Shaikh
+  venue: "Proc. Large-Scale Distributed Systems and Middleware"
+  year: 2012
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-ladis-shue.pdf
+
+- title: "On the Price of Equivocation in Byzantine Agreement"
+  people:
+    - Alexander Jaffe
+    - sssix
+    - Thomas Moscibroda
+  venue: "Proc. 31st ACM Symposium on Principles of Distributed Computing"
+  year: 2012
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-podc-jaffe.pdf
+
+- title: "Unsupervised Conversion of 3D models for Interactive Metaverses"
+  people:
+    - jterrace
+    - Ewen Cheslack-Postava
+    - Philip Levis
+    - mfreed
+  venue: "Proc. IEEE International Conference on Multimedia and Expo"
+  year: 2012
+  paper: https://sns.cs.princeton.edu/assets/papers/2012-icme-terrace.pdf
+  presentation: https://sns.cs.princeton.edu/assets/slides/2012-icme-terrace.pdf

@@ -1,0 +1,71 @@
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+
+  ul.people {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    row-gap: 2em;
+    padding-left: 0;
+    list-style: none;
+
+    > li {
+      display: grid;
+      grid-template-areas: "img"
+                           "name"
+                           "interests";
+      grid-template-rows: auto;
+      text-align: center;
+      width: 260px;
+
+      a {
+        grid-area: name;
+        font-size: 1.5rem;
+      }
+
+      img {
+        grid-area: img;
+        height: 260px;
+        width: 100%;
+        border-radius: 16px;
+        object-fit: cover;
+        margin: auto;
+      }
+
+      ul {
+        grid-area: interests;
+        padding-left: 0;
+        list-style: none;
+
+        li {
+          display: inline-block;
+
+          &:after {
+            content: ","
+          }
+
+          &:last-of-type:after {
+            content: ""
+          }
+        }
+      }
+    }
+  }
+
+  ul.publications {
+      list-style: none;
+      padding: 0;
+
+    li {
+        padding: 0.5em 0;
+    }
+
+    a {
+      padding: 0.5em 0;
+    }
+  }
+
+}

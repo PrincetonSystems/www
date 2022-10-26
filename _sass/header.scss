@@ -1,0 +1,55 @@
+header {
+  background-color: #E77500;
+  background-image: url("../imgs/banner.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 80px !important;
+  color: white;
+  padding: 1em;
+  display: grid;
+  grid-template-areas: "title nav" "subtitle nav";
+  grid-template-columns: 1fr auto;
+
+  h1, h2 {
+  margin: 0;
+  padding: 0;
+  }
+
+
+  h1 {
+    grid-area: title;
+    font-weight: 400;
+    font-family: serif;
+    font-size: 2.4em;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    grid-area: subtitle;
+    font-weight: 800;
+  }
+
+  ul.nav {
+    grid-area: nav;
+    display: flex;
+    column-gap: 2em;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    height: 100%;
+
+    li {
+      margin: auto;
+      font-size: 2em;
+    }
+
+    a {
+      opacity: 0.5;
+      color: inherit;
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
