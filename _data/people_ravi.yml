@@ -1,0 +1,73 @@
+# Database of people currently and formerly in Princeton CS Systems
+#
+# Example active person:
+#
+# - first_name: MC
+#   last_name: Hammer
+#   nick: hammertime
+#   type: msc
+#   url: http://www.cs.princeton.edu/~skburrel/
+#   picture: /assets/img/people/hammertime.png
+#   active: true
+#
+# Example inactive person:
+#
+# - first_name: Grace
+#   last_name: Hopper
+#   nick: ghop
+#   type: phd
+#   url: http://www.cs.yale.edu/~ghopper06/
+#   picture: /assets/img/people/ghop.png
+#   active: false
+#   graduated: 1934
+#   now: US Navy
+
+# PhD
+
+- first_name: Neil
+  last_name: Agarwal
+  nick: neilagarwal
+  type: phd
+  active: true
+  url: https://neilagarwal.com/
+  picture: /assets/img/people/placeholder.png
+
+- first_name: Murali
+  last_name: Ramanujam
+  nick: muralisr
+  type: phd
+  active: true
+  url: https://www.muralisr.com
+  picture: /assets/img/people/placeholder.png
+
+- first_name: Mike
+  last_name: Wong
+  nick: mikedwong
+  type: phd
+  active: true
+  url: https://michaeldwong.github.io/
+  picture: /assets/img/people/placeholder.png
+
+- first_name: Yinwei
+  last_name: Dai
+  nick: yinweid
+  type: phd
+  active: true
+  url: https://yinwei-dai.com/
+  picture: /assets/img/people/placeholder.png
+
+- first_name: Rui
+  last_name: Pan
+  nick: ruipan 
+  type: phd
+  active: true
+  url: https://ruipan.xyz/
+  picture: /assets/img/people/placeholder.png
+
+- first_name: Lei
+  last_name: Zhang
+  nick: lei-zhang
+  type: postdoc
+  active: true
+  url: https://geraldleizhang.com/
+  picture: /assets/img/people/placeholder.png

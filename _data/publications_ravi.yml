@@ -1,0 +1,230 @@
+- title: "Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming"
+  people:
+    - Zhuqi Li
+    - Yaxiong Xie
+    - Ravi Netravali
+    - Kyle Jamieson
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics"
+  people:
+    - Neil Agarwal
+    - Ravi Netravali
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "GEMEL: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge"
+  people:
+    - Arthi Padmanabhan
+    - Neil Agarwal
+    - Anand Iyer
+    - Ganesh Ananthanarayanan
+    - Yuanchao Shu
+    - Nikolaos Karianakis
+    - Harry Xu
+    - Ravi Netravali
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs"
+  people:
+    - John Thorpe
+    - Pengzhan Zhao
+    - Jonathan Eyolfson
+    - Yifan Qiao
+    - Zhihao Jia
+    - Minjia Zhang
+    - Ravi Netravali
+    - Harry Xu
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics"
+  people:
+    - Mehrdad Khani
+    - Ganesh Ananthanarayanan
+    - Kevin Hsieh
+    - Junchen Jiang
+    - Ravi Netravali
+    - Yuanchao Shu
+    - Mohammad Alizadeh
+    - Victor Bahl
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "Canvas: Isolated and Adaptive Swapping for Multi-Applications on Remote Memory"
+  people:
+    - Chenxi Wang
+    - Yifan Qiao
+    - Haoran Ma
+    - Shi Liu
+    - Yiying Zhang
+    - Wenguang Chen
+    - Ravi Netravali
+    - Miryung Kim
+    - Harry Xu
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation (NSDI '23), Boston, MA"
+  year: 2023
+
+- title: "Enabling Passive Measurement of Zoom Performance in Production Networks"
+  people:
+    - Oliver Michel
+    - Satadal Sengupta
+    - Hyojoon Kim
+    - Ravi Netravali
+    - Jennifer Rexford
+  venue: "Proc. 2022 Internet Measurement Conference (IMC '22), Nice, France"
+  year: 2022
+
+- title: "Floo: Automatic, Lightweight Memoization for Faster Mobile Apps"
+  people:
+    - Murali Ramanujam
+    - Helen Chen
+    - Shaghayegh Mardani
+    - Ravi Netravali
+  venue: "Proc. 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys '22), Portland, OR"
+  year: 2022
+
+- title: "Jawa: Web Archival in the Era of JavaScript"
+  people:
+    - Ayush Goel
+    - Jingyuan Zhu
+    - Ravi Netravali
+    - Harsha Madhyastha
+  venue: "Proc. Symposium on Operating Systems Design and Implementation (OSDI '22). Carlsbad, CA"
+  year: 2022
+
+- title: "Privid: Practical, Privacy-Preserving Video Analytics Queries"
+  people:
+    - Frank Cangialosi
+    - Neil Agarwal
+    - Venkat Arun
+    - Junchen Jiang
+    - Srinivas Narayana
+    - Anand Sarwate
+    - Ravi Netravali
+  venue: "Proc. 19th Symposium on Networked Systems Design and Implementation (NSDI '22), Renton, MA"
+  year: 2022
+
+- title: "Revelio: ML-Generated Debugging Queries for Distributed Systems"
+  people:
+    - Pradeep Dogga
+    - Karthik Narasimhan
+    - Anirudh Sivaraman
+    - Shiv Saini
+    - George Varghese
+    - Ravi Netravali
+  venue: "Proc. 5th Conference on Machine Learning and Systems (MLSys '22), Santa Clara, CA"
+  year: 2022
+
+- title: "Understanding the Potential of Server-Driven Edge Video Analytics"
+  people:
+    - Qizheng Zhang
+    - Kuntai Du
+    - Neil Agarwal
+    - Ravi Netravali
+    - Junchen Jiang
+  venue: "Proc. 23rd International Workshop on Mobile Computing Systems and Applications (HotMobile '22), Tempe, AZ"
+  year: 2022
+
+- title: "Portkey: Adaptive Key-Value Placement over Dynamic Edge Networks"
+  people:
+    - Joseph Noor
+    - Mani Srivastava
+    - Ravi Netravali
+  venue: "Proc. ACM Symposium on Cloud Computing (SoCC '21), Seattla, WA"
+  year: 2021
+
+- title: "Snicket: Query-Driven Distributed Tracing"
+  people:
+    - Jessica Berg
+    - Fabian Ruffy
+    - Khanh Nguygen
+    - Nicholas Lee
+    - Taegyun Kim
+    - Anirudh Sivaraman
+    - Ravi Netravali
+    - Srinivas Narayana
+  venue: "Proc. 20th ACM Workshop on Hot Topics in Networks (HotNets '21), Virtual"
+  year: 2021
+
+- title: "Towards Memory-Efficient Inference in Edge Video Analytics"
+  people:
+    - Arthi Padmanabhan
+    - Anand Iyer
+    - Ganesh Ananthanarayanan
+    - Yuanchao Shu
+    - Nikolaos Karianakis
+    - Harry Xu
+    - Ravi Netravali
+  venue: "Proc. 3rd ACM Workshop on Hot Topics in Video Analytics and Intelligent Edges (HotEdgeVideo '21), New Orleans, LA"
+  year: 2021
+
+- title: "Marauder: Synergized Caching and Prefetching for Low-Risk Mobile App Acceleration"
+  people:
+    - Murali Ramanujam
+    - Harsha Madhyastha
+    - Ravi Netravali
+  venue: "Proc. 19th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '21), Virtual"
+  year: 2021
+
+- title: "Horcrux: Automatic JavaScript Parallelism for Resource-Efficient Web Computation"
+  people:
+    - Shaghayegh Mardani
+    - Ayush Goel
+    - Ronny Ko
+    - Harsha Madhyastha
+    - Ravi Netravali
+  venue: "Proc. 15th USENIX Symposium on Operating Systems Design and Implementation (OSDI '21), Virtual"
+  year: 2021
+
+- title: "Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs"
+  people:
+    - John Thorpe
+    - Yifan Qiao
+    - Jonathan Eyolfson
+    - Shen Teng
+    - Guanzhou Hu
+    - Zhihao Jia
+    - Jinliang Wei
+    - Keval Voral
+    - Ravi Netravali
+    - Miryung Kim
+    - Harry Xu
+  venue: "Proc. 15th USENIX Symposium on Operating Systems Design and Implementation (OSDI '21), Virtual"
+  year: 2021
+
+- title: "Alohamora: Reviving HTTP/2 Push and Preload by Adapting Policies On the Fly"
+  people:
+    - Nikhil Kansal
+    - Murali Ramanujam
+    - Ravi Netravali
+  venue: "Proc. 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21), Virtual"
+  year: 2021
+
+- title: "Oblique: Accelerating Page Loads Using Symbolic Execution"
+  people:
+    - Ronny Ko
+    - James Mickens
+    - Blake Loring
+    - Ravi Netravali
+  venue: "Proc. 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21), Virtual"
+  year: 2021
+
+- title: "WebMedic: Disentangling the Memory--Functionality Tension for the Next Billion Mobile Web Users"
+  people:
+    - Usama Naseer
+    - Theophilus Benson
+    - Ravi Netravali
+  venue: "Proc. 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile '21), Virtual"
+  year: 2021
+
+- title: "Rethinking Client-Side Caching for the Mobile Web"
+  people:
+    - Ayush Goel
+    - Vaspol Ruamviboonsuk
+    - Ravi Netravali
+    - Harsha Madhyastha
+  venue: "Proc. 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile '21), Virtual"
+  year: 2021
