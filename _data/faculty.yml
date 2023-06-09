@@ -1,0 +1,116 @@
+# Database of people currently and formerly in Princeton CS Systems
+#
+# Example active person:
+#
+# - first_name: MC
+#   last_name: Hammer
+#   nick: hammertime
+#   type: msc
+#   url: http://www.cs.princeton.edu/~skburrel/
+#   picture: /assets/img/people/hammertime.png
+#   active: true
+#
+# Example inactive person:
+#
+# - first_name: Grace
+#   last_name: Hopper
+#   nick: ghop
+#   type: phd
+#   url: http://www.cs.yale.edu/~ghopper06/
+#   picture: /assets/img/people/ghop.png
+#   active: false
+#   graduated: 1934
+#   now: US Navy
+
+# Faculty
+- first_name: Mike
+  last_name: Freedman
+  nick: mfreed
+  type: faculty
+  active: true
+  url: http://www.cs.princeton.edu/~mfreed/
+  picture: /assets/img/people/mfreed.jpg
+  interests:
+    - Distributed Systems
+
+- first_name: Wyatt
+  last_name: Lloyd
+  nick: wlloyd
+  type: faculty
+  active: true
+  url: http://www.cs.princeton.edu/~wlloyd/
+  picture: /assets/img/people/wlloyd.jpg
+  interests:
+    - Distributed Systems
+
+
+- first_name: Amit
+  last_name: Levy
+  nick: aalevy
+  type: faculty
+  active: true
+  url: http://amitlevy.com
+  picture: /assets/img/people/aalevy.jpg
+  interests:
+    - Operating Systems
+    - Security
+
+- first_name: David
+  last_name: August
+  nick: august
+  url: https://august.princeton.edu
+  picture: /assets/img/people/august.jpg
+  type: faculty
+  active: true
+  interests:
+    - Computer Architecture
+
+- first_name: Kyle
+  last_name: Jamieson
+  nick: kylej
+  url: http://www.cs.princeton.edu/~kylej
+  picture: /assets/img/people/kylej.jpg
+  active: true
+  type: faculty
+  interests:
+    - Wireless Networking
+
+- first_name: Kai
+  last_name: Li
+  nick: li
+  url: https://www.cs.princeton.edu/~li
+  picture: /assets/img/people/li.jpg
+  active: true
+  type: faculty
+  interests:
+    - Big Data Systems
+
+- first_name: Margaret
+  last_name: Martonosi
+  nick: mrm
+  url: https://www.princeton.edu/~mrm
+  picture: /assets/img/people/mrm.jpg
+  active: true
+  type: faculty
+  interests:
+    - Computer Architecture
+
+- first_name: Ravi
+  last_name: Netravali
+  nick: ravian
+  url: https://www.cs.princeton.edu/~ravian
+  picture: /assets/img/people/ravian.jpg
+  active: true
+  type: faculty
+  interests:
+    - Networking
+
+- first_name: Jennifer
+  last_name: Rexford
+  nick: jrex
+  url: https://www.cs.princeton.edu/~jrex
+  picture: /assets/img/people/jrex.jpg
+  active: true
+  type: faculty
+  interests:
+    - Networking
