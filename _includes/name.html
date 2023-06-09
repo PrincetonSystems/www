@@ -1,4 +1,4 @@
-{%- assign authobj = site.data.faculty | site.data.people_sns | concat: site.data.people_ravi | where: "nick", author | first -%}
+{%- assign authobj = site.data.faculty | concat: site.data.people_sns | concat: site.data.people_ravi | where: "nick", author | first -%}
 {%- if authobj -%}
 <a href="{{authobj.url}}">{{ authobj.first_name }} {{authobj.last_name}}</a>
 {%- else -%}
