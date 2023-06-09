@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-{%- assign publications = site.data.publications | sort: "year" | reverse -%}
+{%- assign publications = site.data.publications | concat: site.data.publications_ravi | sort: "year" | reverse -%}
 {%- assign year = publications | map: "year" | first -%}
 
 {:.publications}
