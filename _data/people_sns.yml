@@ -66,7 +66,7 @@
     last_name: Hodsdon
     nick: chodsdon
     type: phd
-    active: true
+    active: false
     url: http://www.cs.princeton.edu/~chodsdon/
     picture: /assets/img/people/chodsdon.jpg
 
@@ -153,7 +153,7 @@
     last_name: Stavrinos
     nick: theanos
     type: phd
-    active: true
+    active: false
     url: http://www.cs.princeton.edu/~theanos/
     picture: /assets/img/people/theanos.jpg
 
@@ -320,7 +320,7 @@
     last_name: Torok
     nick: rtorok
     type: msc
-    active: true
+    active: false
     url: https://www.cs.princeton.edu/~rt3811/
     picture: /assets/img/people/rtorok.jpg
 
