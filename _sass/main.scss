@@ -58,7 +58,7 @@ main {
   ul.othermembers {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: left;
     row-gap: 1em;
     padding-left: 0;
     list-style: none;
